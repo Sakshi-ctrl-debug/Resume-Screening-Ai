@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Screening AI
 
 Automated resume extraction, processing, and ranking for Data Science roles using NLP techniques.
@@ -52,3 +53,6 @@ git push -u origin main
 
 ## License
 MIT
+=======
+# Resume-Screening-Ai
+>>>>>>> 062b61de638f4680b367aaed9e1ba8935b87dde9
