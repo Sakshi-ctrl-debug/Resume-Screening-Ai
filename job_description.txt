@@ -1,0 +1,34 @@
+Position: Junior Data Scientist
+Location: Remote
+Company: InsightX Analytics
+
+Job Summary:
+We are seeking a motivated Junior Data Scientist to join our analytics team. The ideal candidate will have a strong foundation in Python, machine learning, and data wrangling. You'll work on real-world problems and contribute to building data-driven solutions.
+
+Responsibilities:
+
+Analyze large datasets to derive insights.
+
+Develop and evaluate predictive models.
+
+Work closely with stakeholders to understand business needs.
+
+Clean and prepare data for analysis and modeling.
+
+Requirements:
+
+Proficiency in Python (Pandas, NumPy, Scikit-learn).
+
+Understanding of machine learning algorithms (e.g., linear regression, decision trees).
+
+Experience with SQL and data visualization tools (e.g., Matplotlib, Seaborn).
+
+Bachelor’s degree in Computer Science, Data Science, or related field.
+
+Strong problem-solving skills and attention to detail.
+
+Preferred:
+
+Exposure to NLP or deep learning frameworks.
+
+Experience with cloud platforms (AWS, GCP) is a plus.
