@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.swp
+*.bak
+*.tmp
+# VS Code
+.vscode/
+# Data
+*.csv
+*.xlsx
+# Output
+output/
+# System
+Thumbs.db
+# Logs
+*.log
+# Environment
+.env
+# Resume files
+resumes/
