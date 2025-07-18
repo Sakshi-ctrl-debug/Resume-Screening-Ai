@@ -36,8 +36,8 @@ Automated resume extraction, processing, and ranking for Data Science roles usin
 ## Example Output
 ```
 Top matching resumes (Data Science):
-1. JohnDoe.pdf - Score: 0.812
-2. JaneSmith.docx - Score: 0.798
+1. Sakshi_Resume.pdf - Score: 0.812
+2. Sinjini_Resume.docx - Score: 0.798
 ...
 Ranking complete! 🎉
 ```
@@ -47,7 +47,7 @@ Ranking complete! 🎉
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin <your-repo-url>
+git remote add origin <your-repo-url> (Here it is : https://github.com/Sakshi-ctrl-debug/Resume-Screening-Ai)
 git push -u origin main
 ```
 
